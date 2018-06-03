@@ -107,3 +107,10 @@
 .redstar-name {
   width: 150px;
 }
+
+
+h1.pg-primary {
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+  font-size: 60px;
+}

@@ -1,6 +1,6 @@
 ---
 title: "Juniors"
-image: /img/about-jumbotron.jpg
+image: /img/juniors-front.png
 values:
   - heading: "Starting 4 May 2018"
     text: >
