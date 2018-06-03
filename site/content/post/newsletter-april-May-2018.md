@@ -1,13 +1,13 @@
 ---
 title: "Newsletter April/May 2018"
 date: 2018-05-01T15:04:10.000Z
-description: "Lots happening, ddupdates from the Club captains, president, juniors, and Committee Members list for 2018."
+description: "Lots happening, updates from the Club captains, president, juniors, and Committee Members list for 2018."
 image: /img/watching-redstaropen.png
 ---
 
 # Club Captain’s Corner
 
-There has been quite a bit going ddsince the last newsletter.
+There has been quite a bit going since the last newsletter.
 
 Coaching with Kashif A great day was had by all those who attended coaching from
 Kashif Shuja especially those who got to have a game (or 2 aye Big Mike?!).
