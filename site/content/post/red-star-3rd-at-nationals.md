@@ -5,8 +5,6 @@ description: "Red Star Ladies D grade team placed third at Superchamps in Taupo.
 image: "/img/ladies-d-grade-2017.png"
 ---
 
-# Red Star 3rd at Nationals
-
 The Red Star D grade women’s team. Back: Annissa Greenlees (left), Diane
 Meenken, Claudia Hawkes, Craig Hawkes (Manager), Veronica Ordish. Front: Sam
 Woodhouse, Aysel Greenlees, Shelley Wilson.
