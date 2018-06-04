@@ -43,4 +43,3 @@ Jock B vs Luke R vs John Morris vs Greg Barber
 Stacey Morris vs Richard Lennox
 
 Cheers from Braden (please direct any queries to: braden-woolford@hotmail.com)
-
