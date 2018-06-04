@@ -64,8 +64,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
+      - file: "site/content/juniors/_index.md"
+        label: "Juniors Page"
         name: "values"
         fields:
           - {label: Title, name: title, widget: string}
